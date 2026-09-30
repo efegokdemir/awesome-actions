@@ -262,6 +262,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [GraphQL Inspector Action](https://github.com/kamilkisiela/graphql-inspector)
 - [PowerShell static analysis with PSScriptAnalyzer](https://github.com/devblackops/github-action-psscriptanalyzer)
 - [Run tfsec, with reviewdog output on the PR](https://github.com/reviewdog/action-tfsec)
+- [ChangeGuard](https://github.com/efegokdemir/shopify-app-changeguard) - Offline GitHub Action for privacy-focused semantic review of Shopify app configuration changes.
 
 #### Testing
 
